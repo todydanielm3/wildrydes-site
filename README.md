@@ -1,4 +1,4 @@
-Projeto AWS
+Projeto AWS Serverless computing
 
 > Arquitetura da aplicação
 
